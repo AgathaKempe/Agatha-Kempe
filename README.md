@@ -1,4 +1,4 @@
-# _**Welcome to my profile**_ 💛
+# _**Bem vindo ao meu perfil**_ 💛
   Meu nome é _Ágatha Kempe_
   - Sou estudante na [Alura](Https://www.alura.com.br)
   - Estou me desenvolvendo na linguagem JavaScript
